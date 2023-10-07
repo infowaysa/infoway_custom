@@ -6,7 +6,7 @@ app_publisher = "InfoWay for ICT"
 app_description = "All Customization for ERPNext to InfoWay"
 app_email = "support@infoway.com.sa"
 app_license = "MIT"
-
+fixtures = ["Custom Field"]
 # Includes in <head>
 # ------------------
 

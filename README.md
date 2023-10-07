@@ -4,4 +4,4 @@ All Customization for ERPNext to InfoWay
 
 #### License
 
-MIT
+MIT# infoway_custom

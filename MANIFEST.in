@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include infoway_custom *.css
+recursive-include infoway_custom *.csv
+recursive-include infoway_custom *.html
+recursive-include infoway_custom *.ico
+recursive-include infoway_custom *.js
+recursive-include infoway_custom *.json
+recursive-include infoway_custom *.md
+recursive-include infoway_custom *.png
+recursive-include infoway_custom *.py
+recursive-include infoway_custom *.svg
+recursive-include infoway_custom *.txt
+recursive-exclude infoway_custom *.pyc
